@@ -42,7 +42,7 @@ I'm a passionate **Website and Software Developer** specializing in the **MERN S
    - **Description:** **Burger City Inventory Software** is a simple application designed to manage inventory for Burger City restaurants in Germany. It helps track ingredients, supplies, and stock levels in real-time, with features like low stock alerts, inventory reports, and multi-location support. Built using modern web technologies (e.g., React, Node.js, MongoDB), the software ensures smooth operations and efficient management of resources. Feel free to contribute by forking the repo, reporting issues, or submitting pull requests..
    - **Tech Stack:** React, Node.js, MongoDB, Express
    - **GitHub Repo:** [https://github.com/mdshahid1009266/bc](#)
-   - **Live Demo:** [https://leckeres-deal.de](#)
+   - **Live Demo:** [https://leckeres-deal.de]
 
 #### 2. **[Fish House Website](#)**
    - **Description:** This is a web development project for **Sandwip Fish House**, a local fish farm. The website is designed to display the farm’s range of fresh fish, facilitate online orders, and offer information on the farm's sustainable practices. Built with a focus on user experience, responsiveness, and simplicity, the website serves as both an informative platform and an online store for customers..
