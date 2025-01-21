@@ -58,10 +58,13 @@ I'm a passionate **Website and Software Developer** specializing in the **MERN S
 
 ---
 
+
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?mdshahid1009266=your-github-username&show_icons=true&hide_border=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?mdshahid1009266=your-github-username&layout=compact&hide_border=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mdshahid1009266&show_icons=true&hide_border=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdshahid1009266&layout=compact&hide_border=true&theme=radical)
+
+---
 
 ---
 
