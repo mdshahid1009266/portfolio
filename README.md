@@ -48,13 +48,13 @@ I'm a passionate **Website and Software Developer** specializing in the **MERN S
    - **Description:** This is a web development project for **Sandwip Fish House**, a local fish farm. The website is designed to display the farm’s range of fresh fish, facilitate online orders, and offer information on the farm's sustainable practices. Built with a focus on user experience, responsiveness, and simplicity, the website serves as both an informative platform and an online store for customers..
    - **Tech Stack:** Html, Css, Jquery
    - **GitHub Repo:** [Link to repository](#)
-   - **Live Demo:** [https://sandwipfishhouse.netlify.app](#)
+   - **Live Demo:** [https://sandwipfishhouse.netlify.app]
 
 #### 3. **[SIO Automation](#)**
    - **Description:** This project is an **Order & Management Automation System** developed for **SIO Company**. The software automates the order processing and inventory management, enhancing operational efficiency and reducing errors. Key features include order tracking, inventory updates, and reporting, all designed to simplify business workflows and provide real-time insights into company operations..
    - **Tech Stack:** React, JWT, RESTful API, Node.js, MySql
    - **GitHub Repo:** [Link to repository](#)
-   - **Live Demo:** [https://stay-in-online.netlify.app](#)
+   - **Live Demo:** [https://stay-in-online.netlify.app]
 
 ---
 
